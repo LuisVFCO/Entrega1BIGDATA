@@ -1,5 +1,8 @@
 # Entrega1BIGDATA
 
+2. Apresentação do Dicionário de Dados:
+   - Definição: Criem um dicionário de dados completo, que detalhe cada variável presente no dataset. Especifiquem o tipo de dado (numérico, categórico, texto, data, etc.), uma descrição breve do que cada variável representa e qualquer peculiaridade ou observação relevante.
+
 1. **TP_NOT**: Tipo de notificação (Integer ou String)
 2. **ID_AGRAVO**: Identificação do agravo de saúde (String)
 3. **DT_NOTIFIC**: Data de notificação do caso (Date)
