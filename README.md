@@ -1,5 +1,26 @@
 # Entrega1BIGDATA
 
+# Pesquisa e Detalhamento do Dataset: SINAN - Tuberculose, 2022
+   - Seleção do Dataset: O grupo deve um dataset de interesse público ou de relevância para alguma área específica (saúde, educação, finanças, etc.). Justifiquem a escolha do dataset e expliquem como ele pode ser útil para solucionar problemas ou responder perguntas importantes.
+
+Justificativa:
+
+   - Origem Confiável: O PySUS coleta dados de bases de dados públicas publicadas pelo DATASUS, que é o Departamento de Informática do Sistema Único de Saúde (SUS) no Brasil. Esses dados são confiáveis e amplamente utilizados para análises epidemiológicas e tomada de decisões em saúde pública
+
+   - Acessibilidade: O PySUS facilita o acesso e a manipulação desses dados, tornando-os acessíveis para pesquisadores, profissionais de saúde e formuladores de políticas.
+
+Utilidade: A base de dados sobre tuberculose do ano de 2022 do SINAN é de extrema importancia por muitas razões, incluindo:
+
+
+   - Monitoramento Epidemiológico: O dataset permite monitorar a incidência, prevalência e tendências da tuberculose em diferentes regiões do Brasil. Isso é crucial para identificar áreas de maior risco, planejar intervenções e avaliar o impacto de programas de controle da doença.
+
+   - Identificação de Grupos de Risco: Com os dados demográficos e clínicos disponíveis, é possível identificar grupos de risco, como faixas etárias mais afetadas, comorbidades associadas e padrões de transmissão.
+
+   - Pesquisa Científica: Pesquisadores podem explorar o dataset para investigar questões específicas, como fatores de risco, genética da doença e impacto socioeconômico.
+
+Em resumo, o dataset de tuberculose de 2022 pelo PySUS é uma ferramenta essencial para entender a epidemiologia da tuberculose no Brasil, informar políticas de saúde e melhorar a prevenção e o tratamento da doença
+
+
 # Apresentação do Dicionário de Dados:
    - Definição: Criem um dicionário de dados completo, que detalhe cada variável presente no dataset. Especifiquem o tipo de dado (numérico, categórico, texto, data, etc.), uma descrição breve do que cada variável representa e qualquer peculiaridade ou observação relevante.
 
