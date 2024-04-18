@@ -1,5 +1,5 @@
 # Entrega1BIGDATA
-# Alunos: Adonis Vinicius, Alan Vitor, Cicero Antônio, Esmeralda Freire, João Victor Santos, Luis Vinicius
+Alunos: Adonis Vinicius, Alan Vitor, Cicero Antônio, Esmeralda Freire, João Victor Santos, Luis Vinicius
 
 # Pesquisa e Detalhamento do Dataset: SINAN - Tuberculose, 2022
    - Seleção do Dataset: O grupo deve um dataset de interesse público ou de relevância para alguma área específica (saúde, educação, finanças, etc.). Justifiquem a escolha do dataset e expliquem como ele pode ser útil para solucionar problemas ou responder perguntas importantes.
