@@ -73,3 +73,27 @@
 71. **TRATSUP_AT**: Indica se houve mudança no tratamento supervisionado (Boolean ou Integer)
 72. **DT_MUDANCA**: Data da última mudança no registro (Date)
 73. **NU_COMU_EX**: Número de comunicações externas (Integer)
+74. **SITUA_9_M: Situação do paciente 9 meses após o diagnóstico (string)
+75. **SITUA_12_M: Situação do paciente 12 meses após o diagnóstico (string)
+76. **SITUA_ENCE: Situação específica para gestantes (string)
+77. **DT_ENCERRA: Data de encerramento do caso (string)
+78. **TPUNINOT: Tipo da unidade notificadora (string)
+79. **POP_LIBER: Indica se o paciente pertence à população privada de liberdade (boolean)
+80. **POP_RUA: Indica se o paciente é uma pessoa em situação de rua (boolean)
+81. **POP_SAUDE: Indica se o paciente é um profissional de saúde (boolean)
+82. **POP_IMIG: Indica se o paciente é um imigrante (boolean)
+83. **BENEF_GOV:  Indica se o paciente recebe algum benefício governamental (boolean)
+84. **AGRAVDROGA: Indica se há agravo por uso de drogas (boolean)
+85. **AGRAVTABAC: Indica se há agravo por uso de tabaco (boolean)
+86. **TEST_MOLEC:  Indica se foi realizado um teste molecular para diagnóstico (boolean)
+87. **TEST_SENSI: Indica se foi realizado um teste de sensibilidade a medicamentos (boolean)
+88. **ANT_RETRO: Indica se o paciente está em tratamento com antirretrovirais (boolean)
+89. **BAC_APOS_6: Presença de bacilos após 6 meses de tratamento (boolean)
+90. **TRANSF: Indica se houve transferência do paciente para outra unidade (boolean)
+91. **UF_TRANSF: Unidade federativa para onde o paciente foi transferido (string)
+92. **MUN_TRANSF: Município para onde o paciente foi transferido (string)
+
+
+
+
+
